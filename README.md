@@ -43,6 +43,3 @@ This portfolio is built using:
 - **React** – Component-driven UI architecture
 
 ---
-
-## 📁 Repository Structure
-
