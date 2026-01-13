@@ -4,7 +4,8 @@ Welcome to my Portfolio repository! 👋
 This repository showcases my personal portfolio website, which highlights my projects, skills, and experience as an aspiring **Java Developer / Software Engineer**.
 
 🌐 **Live Demo:** https://Sanjeevni-103.github.io/Portfolio/  
-📌 Built with: HTML, CSS, JavaScript, and React
+📌 Built with: HTML, CSS, JavaScript
+
 
 ---
 
